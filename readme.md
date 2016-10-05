@@ -8,7 +8,8 @@ should run.
 Note that editing the source requires Matlab 2016, because it was made in the App Designer
 tool.
 
-Current version (alpha-0.1) is not suitable for use, as it is missing several important features and is fairly buggy.
+Current version (alpha-0.2) is not suitable for use, as it is fairly buggy.
+Pleanty of features are still on the to-do list.
 
 Install "nScope Matlab Interface.mlappinstall" in matlab to use.
 
