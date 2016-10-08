@@ -14,4 +14,6 @@ Version alpha-0.3 drastically improves lag problems.
 
 Install "nScope Matlab Interface.mlappinstall" in matlab to use.
 
+Please note that this project is not at all officially associated with nScope.
+
 ![Screenshot](/img/alpha-0_3 screenshot.png)
