@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="4112735281" file="C:\Users\azzel\Documents\GitHub\nScope-Matlab-Interface\src\nScope Matlab Interface.prj" location="C:\Users\azzel\Documents\GitHub\nScope-Matlab-Interface\src" name="nScope Matlab Interface" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="228677942" file="C:\Users\azzel\Documents\GitHub\nScope-Matlab-Interface\src\nScope Matlab Interface.prj" location="C:\Users\azzel\Documents\GitHub\nScope-Matlab-Interface\src" name="nScope Matlab Interface" target="target.mlapps" target-name="Package App">
     <param.appname>nScope Matlab Interface</param.appname>
     <param.authnamewatermark>Adam Zeloof</param.authnamewatermark>
     <param.email />
@@ -8,8 +8,8 @@
     <param.icons />
     <param.summary />
     <param.description />
-    <param.screenshot>C:\Users\azzel\Documents\GitHub\nScope-Matlab-Interface\img\alpha-0_2 screenshot.png</param.screenshot>
-    <param.version>1.0.2</param.version>
+    <param.screenshot>C:\Users\azzel\Documents\GitHub\nScope-Matlab-Interface\img\alpha-0_3 screenshot.png</param.screenshot>
+    <param.version>1.0.3</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />

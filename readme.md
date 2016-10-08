@@ -8,8 +8,10 @@ should run.
 Note that editing the source requires Matlab 2016, because it was made in the App Designer
 tool.
 
-Current version (alpha-0.1) is not suitable for use, as it is missing several important features and is fairly buggy.
+Current version (alpha-0.3) is (hopefully) almost suitable for use.
+Lags when run at higher speeds (runs perfectly at 25 hz with one channel).
+Version alpha-0.3 drastically improves lag problems.
 
 Install "nScope Matlab Interface.mlappinstall" in matlab to use.
 
-![Screenshot](/img/alpha-0_2 screenshot.png)
+![Screenshot](/img/alpha-0_3 screenshot.png)
